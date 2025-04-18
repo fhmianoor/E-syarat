@@ -2,8 +2,8 @@
 # Project Capstone
 
 ## Note
-### - Untuk FE-BE buat folder terpisah yaitu FE saja
-### - Untuk ML membuat folder BE dengan sub folder model(untuk model ML) dan routes(untuk backend)
+### - Untuk FE-BE buat folder terpisah yaitu FE dan BE
+### - Untuk ML membuat folder Model
 ### - Backend menggunakan Flask sebagai frameworknya
 ### - Untuk FE-BE buat .gitignore dengan inputannya nodemodules dan package-lock.json
 
