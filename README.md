@@ -1,4 +1,4 @@
-# E-Syarat
+# e-Syarat
 # Project Capstone
 
 ## Note
